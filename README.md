@@ -1,4 +1,4 @@
-# Dabloon-Data-Protection-olicy
+# Dabloon-Data-Protection-Policy
 Data Protection Policy for the app dabloon
 
 Dabloon Data Protection Policy (Datenschutzerklärung):
